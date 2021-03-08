@@ -1,5 +1,5 @@
 package lib1
 
 func Bar() string {
-	return "gomodlib/lib1"
+	return "gomodlib/lib1 Bar"
 }
