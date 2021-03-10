@@ -1,0 +1,8 @@
+from golang.org/doc/code 
+- A repository contains one or more modules. 
+- A go repository typically contains only one module, located at the root of the repository.
+
+so one or many modules per repo, but typically one per repo
+
+"...I'ts a good habit to organize your code as if you will publish it someday" --golang.org
+

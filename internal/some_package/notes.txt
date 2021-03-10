@@ -1,0 +1,8 @@
+packages used internally by the projects, but we don't want to export to users. 
+
+if wanting to stay compliant with semantic versioning, it is easier to export
+an internal api. It is hard to take a public api and un-import it since users
+may depend on it. 
+
+
+

@@ -1,0 +1,13 @@
+# commands can be installed by user using the go tool
+# and since gomodlib is a real repo, these will work and be installed 
+# by the go tool
+$ go get github.com/hectorMurilloIbarra43/gomodlib/cmd/gomodlib-greeting
+$ go get github.com/hectorMurilloIbarra43/gomodlib/cmd/gomodlib-saludo
+$ gomodlib-greeting 
+gomodlib/lib1 Bar
+# Go downloads, builds and installs cmd-name into the default location
+
+
+
+
+
